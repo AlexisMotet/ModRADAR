@@ -1,6 +1,6 @@
-# ModRADAR
+# ModRADAR (2021 - 2022)
 
-The aim of this project was to display the speeds of track and field runners in real time.
+The aim of this engineering school project was to display the speeds of track and field runners in real time.
 
 It uses 3 FMCW embedded radars (https://urad.es/en/) on Raspberry Pi 4 and Arduino Uno boards.
 The radars deposit the raw measurements (IQ signal) on a Redis server and a Python server retrieves and processes them to get the speeds and positions of the runners.
