@@ -1,4 +1,4 @@
-# ModRADAR (2021-22 engineering school project)
+# ModRADAR (2021-2022 engineering school project)
 
 The aim of this engineering school project was to display the speeds of track and field runners in real time.
 
